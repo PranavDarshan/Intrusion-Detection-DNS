@@ -2,6 +2,14 @@
 
 This project is a web-based network intrusion detection system (NIDS) that captures and analyzes network traffic in real-time. It uses a machine learning model to classify network flows as either benign or malicious and provides a web interface to visualize the results.
 
+## Requirements
+
+1. Python 3.9
+2. NPM
+3. Npcap 1.7
+
+View the backend folder for more requirements.
+
 ## Screenshots
 
 | Screenshot | Description |
